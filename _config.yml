@@ -1,7 +1,7 @@
 name: A Bon Blog
-url: "https://amava-lin.github.io/a-bon-blog/"
+url: "https://amava-lin.github.io"
 baseurl: "/a-bon-blog"
-url-pretty: "amava-lin.github.io/a-bon-blog/"
+url-pretty: "amava-lin.github.io/a-bon-blog"
 markdown: kramdown
 highlighter: rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
